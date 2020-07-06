@@ -1,0 +1,3 @@
+C:\2020_Second_Semester\Javascript Frameworks\Week8\FileUploadTest\FileUploadTest\obj\Debug\FileUploadTest.njsprojAssemblyReference.cache
+C:\2020_Second_Semester\Javascript Frameworks\Week8\FileUploadTest\FileUploadTest\obj\Debug\FileUploadTest.njsproj.CoreCompileInputs.cache
+C:\2020_Second_Semester\Javascript Frameworks\Week8\FileUploadTest\FileUploadTest\bin\Microsoft.NodejsTools.WebRole.dll
